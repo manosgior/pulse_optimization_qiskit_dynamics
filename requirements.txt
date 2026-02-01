@@ -1,0 +1,7 @@
+qiskit<1.0
+qiskit-dynamics<=0.5.1
+scipy
+numpy
+matplotlib
+jupyter
+jax[cpu]
